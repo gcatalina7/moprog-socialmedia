@@ -1,6 +1,9 @@
 # moprog-socialmedia
 
 Aplikasi Sosial Media Flutter untuk UTS Mobile Programming 2025
+Daftar Nama Kelompok:
+535220214 Giofani Catalina Iskandar
+535220145 Dimas Saputra
 
 ## Fitur
 ### Feed Beranda
@@ -36,3 +39,4 @@ Aplikasi Sosial Media Flutter untuk UTS Mobile Programming 2025
 ```bash
 flutter pub get
 flutter run
+
